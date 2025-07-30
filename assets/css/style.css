@@ -1,0 +1,68 @@
+/* h1{
+    color: blue;
+}
+
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+caption{
+    text-align: center;
+    color: green;
+} */
+div {
+    background-image: url('../images/2.jpg');
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+body {
+    background-color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul li {
+    list-style: none;
+    padding: 5px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 300px;
+    border-radius: 15px;
+    border: 2px dashed red;
+    box-shadow: 0 5px 5px 0 blueviolet;
+}
+
+header {
+    background-color: brown;
+    border-radius: 5px;
+}
+input{
+    padding: 10px;
+    width: 60%;
+    background-color: lightgrey;
+    border-color: blue 2px solid blue;
+    margin: auto;
+    border-radius: 15px;
+}
+pre{
+    color: blue;
+    text-transform: uppercase;
+}
